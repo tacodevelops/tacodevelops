@@ -3,9 +3,8 @@ Hey, I am Taco, a full-stack developer. I have been programming for 6 years now,
 
 What I am currently working on:
 
-My own 3d Game Engine with C++.
+My own 3d Game Engine with C++. (only 3d)
 
 My own programming language.
 
-A Java Framework that catches mistakes before you make them, preventing bugs down the line, and makes Java much easier to write it fixing your mistakes as you code!
-
+My own 2d Game Engine with Java. (only 2d)
