@@ -1,8 +1,8 @@
-💫 About Me:<br
+# 💫 About Me:<br
              >Hey, I am Taco, a full-stack developer and game developer! 
              I have been programming for six years and creating games for seven years. 
              I love coding and hope to do it as a job someday.
-             I love making games too, I am now only using GDevelop, and I only make games for fun, I post on Crazy Games, Poki, Itch.io and more!!
+             I love making games too. I am now exclusively using GDevelop, and I create games for fun. I post them on platforms like Crazy Games, Poki, Itch.io, and more.
              <br><br>🔨 What I am currently working on:
              <br>-My own 3d Game Engine with C++ (only 3d) 
              <br>-My own programming language, Lua#, a frontend scripting language that looks like Lua but runs in the browser by turning into JavaScript, and it can grab data from a Node.js or Java backend SUPER fast with built-in functions. 
