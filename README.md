@@ -18,7 +18,7 @@
              <br>-Advanced Cyber Security
              <br>-Advanced Simulations with C++
              <br>-Go/Golang<br>-Spring (Java Framework)
-             <br>-Advanced Machine Learnin
+             <br>-Advanced Machine Learning
              <hr>
   <br><br>
              🧠 What I hope to learn in the future:
