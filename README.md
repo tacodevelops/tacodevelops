@@ -10,7 +10,7 @@
    <br>-My own programming language, Lua# looks like Lua and compiles to JS, also has static typing!
    <br>-My own 2d Game Engine with Java. (only 2d)
    
- # 🌱 I am currently learning
+ # 🌱 I am currently learning:
    <br>-Data Science
    <br>-Advanced Cyber Security
    <br>-Advanced Simulations with C++
