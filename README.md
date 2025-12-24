@@ -83,5 +83,5 @@ Thank you for understanding!<br>
 ![](https://github-readme-stats.vercel.app/api?username=NotTaco3&theme=react&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=NotTaco3&theme=react&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NotTaco3&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+<img src="https://gwagwastats.vercel.app/api/top-langs/?username=NotTaco3&layout=compact&theme=radical" alt="Most Used Languages">
 <a href="https://wakatime.com/@280835c6-de43-4da1-9b5e-77b4b25ed524"><img src="https://wakatime.com/badge/user/280835c6-de43-4da1-9b5e-77b4b25ed524.svg" alt="Total time coded since Dec 25 2025" /></a>
