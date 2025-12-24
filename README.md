@@ -5,7 +5,7 @@ I love coding and hope to do it as a job someday.
 I love making games too.
 I am now exclusively using GDevelop, and I create games for fun.
 I post them on platforms like Crazy Games, Poki, Itch.io, and more.
-I enjoy pushing code to its limits~
+I enjoy pushing code to its limits,
 I love making tools to automate things!
 
 # 🔨 What I am currently working on:
