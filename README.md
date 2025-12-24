@@ -7,13 +7,13 @@
              I post them on platforms like Crazy Games, Poki, Itch.io, and more.
              <hr>
   <br><br>
-           # 🔨 What I am currently working on:
+  # 🔨 What I am currently working on:
              <br>-My own 3d Game Engine with C++ (only 3d) 
              <br>-My own programming language, Lua#, a frontend scripting language that looks like Lua but runs in the browser by turning into JavaScript, and it can grab data from a Node.js or Java backend SUPER fast with built-in functions. 
              <br>-My own 2d Game Engine with Java. (only 2d)
              <hr>
   <br><br>
-            # 🌱 I am currently learning
+ # 🌱 I am currently learning
              <br>-Data Science
              <br>-Advanced Cyber Security
              <br>-Advanced Simulations with C++
@@ -22,7 +22,7 @@
              <br>-Three.js
              <hr>
   <br><br>
-           # 🧠What I hope to learn in the future:
+# 🧠What I hope to learn in the future:
              <br>-Robotics
              <br>-More physics and programming simulations that are more realistic
              <br>-More frameworks to make programming easier and smoother
