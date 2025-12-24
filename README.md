@@ -15,7 +15,7 @@ Thank you for understanding!<br>
 # 🔨 What I am currently working on:
 -My own 3d Game Engine with C++ (only 3d)<br>
 -My own programming language, Lua# looks like Lua and compiles to JS, also has static typing!<br>
--My own Lua Framework Flux w [@sahleyis](https://github.com/sahleyis)
+-My own Lua Framework [Flux](https://github.com/NotTaco3/Flux) w [@sahleyis](https://github.com/sahleyis)
 <br>
 -My own 2d Game Engine with Java. (only 2d)<br>
 
