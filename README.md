@@ -12,18 +12,18 @@
    <br>-My own 2d Game Engine with Java. (only 2d)
    <hr>
  # 🌱 I am currently learning
-             <br>-Data Science
-             <br>-Advanced Cyber Security
-             <br>-Advanced Simulations with C++
-             <br>-Go/Golang<br>-Spring (Java Framework)
-             <br>-Advanced Machine Learning
-             <br>-Three.js
-             <hr>
+   <br>-Data Science
+   <br>-Advanced Cyber Security
+   <br>-Advanced Simulations with C++
+   <br>-Go/Golang<br>-Spring (Java Framework)
+   <br>-Advanced Machine Learning
+   <br>-Three.js
+   <hr>
 # 🧠What I hope to learn in the future:
-             <br>-Robotics
-             <br>-More physics and programming simulations that are more realistic
-             <br>-More frameworks to make programming easier and smoother
-             <hr>
+   <br>-Robotics
+   <br>-More physics and programming simulations that are more realistic
+   <br>-More frameworks to make programming easier and smoother
+   <hr>
              
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
