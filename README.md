@@ -9,6 +9,7 @@ I enjoy pushing code to its limits, I love making tools to automate things!
 
 # ❗Warning
 -What I post here isn't all of my work, just what I want to show to others!
+Thank you for understanding!
 
 # 🔨 What I am currently working on:
 -My own 3d Game Engine with C++ (only 3d)<br>
