@@ -17,7 +17,7 @@ I love making tools to automate things!
 -Data Science<br>
 -Advanced Cyber Security<br>
 -Advanced Simulations with C++ 
--Go/Golang<br>
+<br>-Go/Golang<br>
 -Spring (Java Framework)<br>
 -Advanced Machine Learning<br>
 -Three.js<br>
