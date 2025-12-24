@@ -60,3 +60,4 @@
 ![](https://github-readme-stats.vercel.app/api?username=NotTaco3&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=NotTaco3&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NotTaco3&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![wakatime](https://wakatime.com/badge/user/280835c6-de43-4da1-9b5e-77b4b25ed524.svg)](https://wakatime.com/@280835c6-de43-4da1-9b5e-77b4b25ed524)
