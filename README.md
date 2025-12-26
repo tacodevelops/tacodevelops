@@ -21,7 +21,7 @@ Thank you for understanding!<br>
 # 📜 What I have currently made:
 -This is a list of things I am willing to show!<br>
 -A 3d [Gravity Simulation](https://github.com/NotTaco3/Gravity-Simulation)<br>
--One of my own languages, ADPT - Adaptive Development Programming Tool, currently has many languages, and I decided to make it open source. It is similar to React, but it can utilize frontend, backend, and database systems. More info in the [repository](https://github.com/NotTaco3/ADPT---Adaptive-Development-Programming-Tool)<br>
+-One of my own languages, ADPT - Adaptive Development Programming Tool, currently has many languages, and I decided to make it open source. It is similar to React, but it can utilize frontend, backend, and database systems. More info in the [repository](https://github.com/NotTaco3/ADPT-Adaptive-Development-Programming-Tool)!<br>
 
 # 🌱 I am currently learning:
 -Data Science<br>
