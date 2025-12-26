@@ -5,25 +5,23 @@ I love coding and hope to do it as a job someday.
 I love making games too.
 I am now exclusively using GDevelop, and I create games for fun.
 I post them on platforms like Crazy Games, Poki, Itch.io, and more.
-I enjoy pushing code to its limits, I love making tools to automate things!
+I enjoy pushing code to its limits, and I love making tools to automate things!
 
 # ❗Warning
 -What I post here isn't all of my work, just what I want to show to others!
 Thank you for understanding!<br>
--Add Taco_Develops on Discord if you want deeper work or want a developer to work on something (I can do bots, AI's, websites, apps and more!)
+-Add Taco_Develops on Discord if you want deeper work or want a developer to work on something (I can do bots, AI's, websites, apps, and more!)
 
 # 🔨 What I am currently working on:
 -My own 3d Game Engine with C++ (only 3d)<br>
 -My own programming language, Lua# looks like Lua and compiles to JS, also has static typing!<br>
--My own Lua Framework [Flux](https://github.com/NotTaco3/Flux) w [@sahleyis](https://github.com/sahleyis)
-<br>
+-My own Lua Framework [Flux](https://github.com/NotTaco3/Flux) w [@sahleyis](https://github.com/sahleyis)<br>
 -My own 2d Game Engine with Java. (only 2d)<br>
 
 # 📜 What I have currently made:
 -This is a list of things I am willing to show!<br>
--A 3d [Gravity Simulation](https://github.com/NotTaco3/Gravity-Simulation)
--One of my own languages, ADPT - Adaptive Development Programming Tool, currently has many languages, and I decided to make it open source. It is like React, but can
-use frontend, backend, and database systems! More info in the repository
+-A 3d [Gravity Simulation](https://github.com/NotTaco3/Gravity-Simulation)<br>
+-One of my own languages, ADPT - Adaptive Development Programming Tool, currently has many languages, and I decided to make it open source. It is similar to React, but it can utilize frontend, backend, and database systems. More info in the repository!<br>
 
 # 🌱 I am currently learning:
 -Data Science<br>
@@ -33,6 +31,7 @@ use frontend, backend, and database systems! More info in the repository
 -Spring (Java Framework)<br>
 -Advanced Machine Learning<br>
 -Three.js<br>
+
 # 🧠What I hope to learn in the future:
 -Robotics<br>
 -More physics and programming simulations that are more realistic<br>
