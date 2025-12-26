@@ -32,12 +32,12 @@ Thank you for understanding!<br>
 -Advanced Machine Learning<br>
 -Three.js<br>
 
-# 🧠What I hope to learn in the future:
+# 🧠 What I hope to learn in the future:
 -Robotics<br>
 -More physics and programming simulations that are more realistic<br>
 -More frameworks to make programming easier and smoother<br>
 
-# Links
+# 🔗 Links
 -Flux [Tutorial page](https://www.youtube.com/@Null4294)
 
 # 💻 Tech Stack:
