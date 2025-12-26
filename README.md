@@ -41,7 +41,7 @@ Thank you for understanding!<br>
 -Flux [Tutorial page](https://www.youtube.com/@Null4294)
 
 # 💻 Tech Stack:
-<img width="97.5" height="28" src="https://raw.githubusercontent.com/NotTaco3/ADPT-Adaptive-Development-Programming-Tool/main/ADPT%20-%20Adaptive%20Development%20Programming%20Tool.png" />
+<img width="97.5" height="28" alt="Screenshot 2025-12-25 051130" src="https://raw.githubusercontent.com/NotTaco3/ADPT-Adaptive-Development-Programming-Tool/main/ADPT%20-%20Adaptive%20Development%20Programming%20Tool.png" />
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
