@@ -37,6 +37,9 @@ Thank you for understanding!<br>
 -More physics and programming simulations that are more realistic<br>
 -More frameworks to make programming easier and smoother<br>
 
+# Links
+-Flux [Tutorial page](https://www.youtube.com/@Null4294)
+
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
