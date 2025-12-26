@@ -19,6 +19,9 @@ Thank you for understanding!<br>
 <br>
 -My own 2d Game Engine with Java. (only 2d)<br>
 
+# 📜 What I have currently made:
+-These are a list of things I am willing to show!
+
 # 🌱 I am currently learning:
 -Data Science<br>
 -Advanced Cyber Security<br>
