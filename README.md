@@ -20,7 +20,10 @@ Thank you for understanding!<br>
 -My own 2d Game Engine with Java. (only 2d)<br>
 
 # 📜 What I have currently made:
--These are a list of things I am willing to show!
+-This is a list of things I am willing to show!<br>
+-A 3d [Gravity Simulation](https://github.com/NotTaco3/Gravity-Simulation)
+-One of my own languages, ADPT - Adaptive Development Programming Tool, currently has many languages, and I decided to make it open source. It is like React, but can
+use frontend, backend, and database systems! More info in the repository
 
 # 🌱 I am currently learning:
 -Data Science<br>
