@@ -43,7 +43,7 @@ Thank you for understanding!<br>
 # 💻 Tech Stack:
 
 <img width="97.5" height="28" alt="ADPT logo"
-(https://github.com/NotTaco3/ADPT-Adaptive-Development-Programming-Tool/blob/main/README.md)
+     src="https://raw.githubusercontent.com/NotTaco3/ADPT-Adaptive-Development-Programming-Tool/main/ADPT - Adaptive Development Programming Tool.png/https://github.com/NotTaco3/ADPT-Adaptive-Development-Programming-Tool/blob/main/ADPT%20-%20Adaptive%20Development%20Programming%20Tool.png?raw=true.png" />
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
