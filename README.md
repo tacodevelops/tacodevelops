@@ -37,7 +37,7 @@ Thank you for understanding!<br>
 -More frameworks to make programming easier and smoother<br>
 
 # 🔗 Links
--Flux [Tutorial page](https://www.youtube.com/@Null4294)
+
 
 # 💻 Tech Stack:
 
