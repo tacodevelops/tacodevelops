@@ -3,7 +3,6 @@ Hey, I am Taco, a full-stack developer and game developer!
 I have been programming for six years and creating games for seven years.
 I love making games.
 I am now exclusively using GDevelop, and I create games for fun.
-I post them on platforms like Crazy Games, Poki, Itch.io, and more.
 I enjoy pushing code to its limits, and I love making tools to automate things!
 
 # ❗Warning
