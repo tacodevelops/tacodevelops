@@ -5,15 +5,16 @@ I love making games.
 I am now exclusively using GDevelop, and I create games for fun.
 I enjoy pushing code to its limits, and I love making tools to automate things!
 
-# 📝 What I hope to build in the future!
--My own code editor<br>
--My own website, similar to Scratch but with monetization ability!<br>
--My own web browser!
-
 # ❗Warning
 -What I post here isn't all of my work, just what I want to show to others!
 Thank you for understanding!<br>
 -Add Taco_Develops on Discord if you want deeper work or want a developer to work on something (I can do bots, AI's, websites, apps, and more!)<br>
+
+
+# 📝 What I hope to build in the future!
+-My own code editor<br>
+-My own website, similar to Scratch but with monetization ability!<br>
+-My own web browser!
 
 # 🔨 What I am currently working on:
 -My own 3d Game Engine with C++ (only 3d)<br>
