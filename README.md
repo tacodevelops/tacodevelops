@@ -44,9 +44,9 @@ Thank you for understanding!<br>
 -More frameworks to make programming easier and smoother<br>
 
 # 🔗 Links
--My [Twitter](https://x.com/TacoDevelopz)
--My Games server, [Axelands](https://discord.gg/xcan2emk9R)
--My Roblox [account](https://www.roblox.com/users/4709716031/profile)
+-My [Twitter](https://x.com/TacoDevelopz)<br>
+-My Games server, [Axelands](https://discord.gg/xcan2emk9R)<br>
+-My Roblox [account](https://www.roblox.com/users/4709716031/profile)<br>
 
 # 💻 Tech Stack:
 
