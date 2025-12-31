@@ -10,7 +10,6 @@ I enjoy pushing code to its limits, and I love making tools to automate things!
 Thank you for understanding!<br>
 -Add Taco_Develops on Discord if you want deeper work or want a developer to work on something (I can do bots, AI's, websites, apps, and more!)<br>
 
-
 # 📝 What I hope to build in the future!
 -My own code editor<br>
 -My own website, similar to Scratch but with monetization ability!<br>
