@@ -9,7 +9,7 @@ I love to collaborate with others and make projects, collaborating with my best 
 # ❗Warning
 -What I post here isn't all of my work, just what I want to show to others!
 Thank you for understanding!<br>
--Add Taco_Develops on Discord if you want deeper work or want a developer to work on something (I can do bots, AI's, websites, apps, and more!)<br>
+-Add Taco_Developz on Discord if you want deeper work or want a developer to work on something (I can do bots, AI's, websites, apps, and more!)<br>
                                                                                                                                                     
 # 📝 What I hope to build in the future!
 -My own code editor<br>
@@ -44,7 +44,7 @@ Thank you for understanding!<br>
 -My [Twitter](https://x.com/TacoDevelopz)<br>
 -My Game's discord server, [Axelands](https://discord.gg/xcan2emk9R)<br>
 -My Roblox [account](https://www.roblox.com/users/4709716031/profile)<br>
--Flux [website (info, updates, support, donations!)]()! < if your problems aren't solved here, please add @ taco_develops on Discord, and I can help you!
+-Flux [website (info, updates, support, donations!)]()! < if your problems aren't solved here, please add @ taco_developz on Discord, and I can help you!
 
 # 💻 Tech Stack:
 
