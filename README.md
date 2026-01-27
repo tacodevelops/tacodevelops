@@ -20,13 +20,13 @@ I love to collaborate with others and make projects, collaborating with my best 
 # 🔨 What I am currently working on:
 -My own 3d Game Engine with C++ (only 3d (private project))<br>
 -My own programming language, Lua# looks like Lua and compiles to JS, also has static typing! (private project)<br>
--My own OS/Operating System, made with C, Rust, Assembly, and Go! (private, POTENTIALLY public, project)<br>
 
 # 📜 What I have currently made:
 -This is a list of things I am willing to show!<br>
 -A 3d [Gravity Simulation](https://github.com/NotTaco3/Gravity-Simulation)<br>
 -My own Lua Framework [Flux](https://github.com/NotTaco3/Flux) w [@sahleyis](https://github.com/sahleyis) (not downloadable YET)<br>
 -My own 2d Game Engine with Java. (only 2d (currently private))<br>
+-My own OS/Operating System, made with C, Rust, Assembly, and Go! (will stay private for now ~ 27/01/26)<br>
 
 # 🌱 I am currently learning:
 -Data Science<br>
