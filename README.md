@@ -12,7 +12,6 @@ I love to collaborate with others and make projects, collaborating with my best 
 -Add Taco_Developz on Discord if you want deeper work or want a developer to work on something (I can do bots, AI's, websites, apps, and more!)<br>
                                                                                                                                                     
 # 📝 What I hope to build in the future!
--My own code editor<br>
 -My own website, similar to Scratch but with monetization ability!<br>
 -My own web browser!<br>
 -My own custom computer, in-built with Linux or my OS (potentially) built for developers/programmers with built-in code editors, terminals, and strong cybersecurity!<br>
@@ -27,7 +26,7 @@ I love to collaborate with others and make projects, collaborating with my best 
 -A 3d [Gravity Simulation](https://github.com/NotTaco3/Gravity-Simulation)<br>
 -My own Lua Framework [Flux](https://github.com/NotTaco3/Flux) w [@sahleyis](https://github.com/sahleyis) (not downloadable YET)<br>
 -My own 2d Game Engine with Java. (only 2d (currently private))<br>
--My own OS/Operating System, made with C, Rust, Assembly, and Go! (will stay private for now ~ 27/01/26)<br>
+-My own OS/Operating System, made with C, Rust, Assembly, and Go! finished ~ 27/01/26 <br>
 
 # 🌱 I am currently learning:
 -Data Science<br>
