@@ -26,7 +26,7 @@ I love to collaborate with others and make projects, collaborating with my best 
 -A 3d [Gravity Simulation](https://github.com/NotTaco3/Gravity-Simulation)<br>
 -My own Lua Framework [Flux](https://github.com/NotTaco3/Flux) w [@sahleyis](https://github.com/sahleyis) (not downloadable YET)<br>
 -My own 2d Game Engine with Java. (only 2d (currently private))<br>
--My own OS/Operating System, made with C, Rust, Assembly, and Go! finished ~ 27/01/26 <br>
+-My own OS/Operating System, made with C, Rust, Assembly, and Go! *go here to get more info and updates* ~ 27/01/26 <br>
 
 # 🌱 I am currently learning:
 -Data Science<br>
