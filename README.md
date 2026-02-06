@@ -21,8 +21,6 @@ Hoping to become the greatest programmer of all time one day, life-long goal.
 # 🔨 What I am currently working on:
 -My own web browser (for my OS) ~ Started 31/01/26 (private project)<br>
 -My own code editor ~ Started 18/02/25 (private project)<br>
--My own 3d Game Engine with C++ (only 3d (private project))<br>
--My own programming language, Lua# looks like Lua and compiles to JS, also has static typing! (private project)<br>
 
 # 📜 What I have currently made:
 -This is a list of things I am willing to show!<br>
@@ -31,6 +29,7 @@ Hoping to become the greatest programmer of all time one day, life-long goal.
 -My own 2d Game Engine with Java. (only 2d (currently private))<br>
 -My own OS/Operating System, made with C, Rust, Assembly, and Go! *go here to get more info and updates* ~ 27/01/26<br>
 -My own programming language, Lua# looks like Lua and compiles to JS, also has static typing! ~ 6/02/26<br>
+-My own 3d Game Engine with C++ (only 3d (private project)) ~ 6/02/26<br>
 
 # 🌱 I am currently learning:
 -Data Science<br>
