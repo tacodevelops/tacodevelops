@@ -10,7 +10,7 @@ I love building things for myself or my friends!
 Hoping to become the greatest programmer of all time one day, life-long goal.
 
 # ❗Warning
--What I post here isn't all of my work, just what I want to show to others.<br>
+-What I post here isn't all of my work, just what I want to show to the public.<br>
 -I really like to show stuff, but lots of my projects are just for small groups of my friends, so I like to keep them private, thank you!<br>
 -Add Taco_Developz on Discord if you want deeper work or want a developer to work on something (I can do bots, AI's, websites, apps, and more!)<br>
                                                                                                                                                     
@@ -29,7 +29,8 @@ Hoping to become the greatest programmer of all time one day, life-long goal.
 -A 3d [Gravity Simulation](https://github.com/NotTaco3/Gravity-Simulation)<br>
 -My own Lua Framework [Flux](https://github.com/NotTaco3/Flux) w [@sahleyis](https://github.com/sahleyis) (not downloadable YET)<br>
 -My own 2d Game Engine with Java. (only 2d (currently private))<br>
--My own OS/Operating System, made with C, Rust, Assembly, and Go! *go here to get more info and updates* ~ 27/01/26 <br>
+-My own OS/Operating System, made with C, Rust, Assembly, and Go! *go here to get more info and updates* ~ 27/01/26<br>
+-My own programming language, Lua# looks like Lua and compiles to JS, also has static typing! ~ 6/02/26<br>
 
 # 🌱 I am currently learning:
 -Data Science<br>
