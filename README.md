@@ -9,7 +9,7 @@ I enjoy pushing code to its limits, and I love making tools to automate things!
 I love to collaborate with others and make projects, collaborating with my best friend [@sahleyis](https://github.com/sahleyis), working on Flux with me, and hopefully other projects in the future!
 I am a Robotics Engineering Intern @Techmatics.
 I love building things for myself or my friends!
-Hoping to become the greatest programmer of all time one day, life-long goal.
+Hoping to become the greatest programmer of all time one day, it is a lifelong goal.
 
 # ❗Warning
 -What I post here isn't all of my work, just what I want to show to the public.<br>
