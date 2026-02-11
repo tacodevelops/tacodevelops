@@ -41,12 +41,12 @@ Hoping to become the greatest programmer of all time one day, it is a lifelong g
 -Advanced Machine Learning<br>
 
 # 🧠 What I hope to learn in the future:
-No idea, I have done many things & don't know what else I want/need to learn.
+No idea, I have done many things & don't know what else I want/need to learn.<br>
 
 # 🔗 Links
 -My [Twitter](https://x.com/TacoDevelopz)<br>
 -My Roblox [account](https://www.roblox.com/users/4709716031/profile)<br>
--Flux [website (info, updates, support, donations!)]()! < if your problems aren't solved here, please add @ taco_developz on Discord, and I can help you!
+-Flux [website (info, updates, support, donations!)]()! < if your problems aren't solved here, please add @ taco_developz on Discord, and I can help you!<br>
 
 # 💻 Tech Stack:
 
