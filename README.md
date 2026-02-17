@@ -34,7 +34,7 @@ Hoping to become the greatest programmer of all time one day, it is a lifelong g
 -My own 3d Game Engine with C++ (only 3d (private project)) ~ 6/02/26<br>
 
 # 🌱 I am currently learning:
--Fiber<br>
+-Fiber (Go framework, that boosts middleware support & integrates database systems)<br>
 -More physics and programming simulations that are more realistic<br>
 -Robotics @techmatics<br>
 -Advanced Cyber Security<br>
