@@ -37,11 +37,9 @@ Hoping to become the greatest programmer of all time one day, it is a lifelong g
 -Fiber (Go framework, that boosts middleware support & integrates database systems)<br>
 -More physics and programming simulations that are more realistic<br>
 -Robotics @techmatics<br>
--Advanced Cyber Security<br>
--Advanced Machine Learning<br>
 
 # 🧠 What I hope to learn in the future:
-No idea, I have done many things & don't know what else I want/need to learn.<br>
+Electrical Engineering to add more to what I can build!<br>
 
 # 🔗 Links
 -My [Twitter](https://x.com/TacoDevelopz)<br>
