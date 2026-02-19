@@ -4,7 +4,7 @@
 Hey, I am Taco, a full-stack developer, game developer, Robotics Engineer, & OS Developer! 
 I have been programming for 8 years and creating games for 9 years.
 I love making games.
-I am now exclusively using Roblox, and I create games for fun.
+I am now exclusively using Roblox, and I create games for fun.       
 I enjoy pushing code to its limits, and I love making tools to automate things!   
 I love to collaborate with others and make projects, collaborating with my best friend [@sahleyis](https://github.com/sahleyis), working on Flux with me, and hopefully other projects in the future!
 I am a Robotics Engineering Intern @Techmatics.
