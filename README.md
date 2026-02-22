@@ -13,7 +13,7 @@ Hoping to become the greatest programmer of all time one day, it is a lifelong g
 
 # ❗Warning
 -What I post here isn't all of my work, just what I want to show to the public.<br> 
--I really like to show stuff, but lots of my projects are just for small groups of my friends, so I like to keep them private, thank you!<br>
+-I really like to show stuff, but lots of my projects are just for small groups of my friends, so I like to keep them private, thank you!<br>  
 -Add Taco_Developz on Discord if you want to talk to me or collab with me, not working anymore unless it has incredible pay!<br>
                                                                                                                                                     
 # 📝 What I hope to build in the future!
