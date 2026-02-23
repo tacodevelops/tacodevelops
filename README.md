@@ -2,7 +2,7 @@
 
 # 💫 About Me:   
 Hey, I am Taco, a full-stack developer, game developer, Robotics Engineer, & OS Developer! 
-I have been programming for 8 years and creating games for 9 years.
+I have been programming for 8 years and creating games for 9 years.  
 I love making games.
 I am now exclusively using Roblox, and I create games for fun.       
 I enjoy pushing code to its limits, and I love making tools to automate things!   
