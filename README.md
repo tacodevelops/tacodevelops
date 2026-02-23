@@ -90,8 +90,3 @@ Electrical Engineering to add more to what I can build!<br>
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=NotTaco3&theme=react&hide_border=false&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=NotTaco3&theme=react&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NotTaco3&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
