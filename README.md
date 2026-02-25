@@ -39,7 +39,7 @@ Hoping to become the greatest programmer of all time one day, it is a lifelong g
 -Robotics @techmatics<br>
 
 # 🧠 What I hope to learn in the future:
-Electrical Engineering to add more to what I can build!<br>
+Hardware Development<br>
    
 # 🔗 Links
 -My [Twitter](https://x.com/TacoDevelopz)<br>
