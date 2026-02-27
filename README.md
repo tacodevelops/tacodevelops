@@ -30,7 +30,7 @@ Hoping to become the greatest programmer of all time one day, it is a lifelong g
 -A 3d [Gravity Simulation](https://github.com/NotTaco3/Gravity-Simulation)<br>
 -My own Lua Framework [Flux](https://github.com/NotTaco3/Flux) w [@sahleyis](https://github.com/sahleyis) (not downloadable YET)<br>
 -My own 2d Game Engine with Java. (only 2d (currently private))<br>
--My own OS/Operating System, made with C, Rust, Assembly, and Go! Go *[here](https://github.com/tacodevelops/Stellar-Changelog)* to get more info and updates<br>
+-My own OS/Operating System, made with C, Rust, Assembly, and Go!<br>
 -My own programming language, Lua# looks like Lua and compiles to JS, also has static typing!<br>
 -My own 3d Game Engine with C++ (only 3d (private project))<br>
 
