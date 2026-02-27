@@ -23,7 +23,7 @@ Hoping to become the greatest programmer of all time one day, it is a lifelong g
 -My own web browser (for my OS) ~ Started 31/01/26 (private project)<br>
 -My own code editor ~ Started 18/02/25 (private project)<br>
 -My own custom computer (handmade, GPU, CPU, Motherboard, RAM, everything handmade!), built with my OS (guaranteed :), built for developers/programmers with built-in code editors, terminals, and strong cybersecurity!<br>
--(For my handmade custom computer, the GPU is what I am currently working on!)
+-For my handmade custom computer, the GPU is what I am currently working on!
 
 # 📜 What I have currently made:
 -This is a list of things I am willing to show!<br>
