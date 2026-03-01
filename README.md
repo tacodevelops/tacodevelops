@@ -37,7 +37,7 @@ Hoping to become the greatest programmer of all time one day, it is a lifelong g
 # 🌱 I am currently learning:
 -Robotics @techmatics<br>
 -PCB Design for my handmade GPU<br>
-Hardware Development<br>
+-Hardware Development<br>
 
 # 🧠 What I hope to learn in the future:
 No clue, I'll figure it out, eventually..
