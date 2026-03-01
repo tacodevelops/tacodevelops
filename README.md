@@ -40,7 +40,7 @@ Hoping to become the greatest programmer of all time one day, it is a lifelong g
 -Hardware Development<br>
 
 # 🧠 What I hope to learn in the future:
-No clue, I'll figure it out, eventually..
+No clue :P
 
 # 💻 Tech Stack:   
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
